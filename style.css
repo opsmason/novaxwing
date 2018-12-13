@@ -4,6 +4,7 @@ body {
   background-repeat: no-repeat;
   font-family: Arial;
   background-attachment: fixed;
+  background-size: contain;
 }
 
 h1 {
