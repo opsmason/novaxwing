@@ -1,10 +1,15 @@
+#head {
+}
+
 body {
-  background-image: url("./images/jedi-starfighter.jpg");
-  background-color: black;
-  background-repeat: no-repeat;
-  font-family: Arial;
   background-attachment: fixed;
-  background-size: contain;
+  background-color: black;
+  background-image: url("./images/jedi-starfighter.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
