@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>622935827.853544</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>MacroActionType</key>
+						<string>SetActionDelay</string>
+						<key>Permanent</key>
+						<false/>
+						<key>Preference</key>
+						<string>SimulateKeystrokeNormalKey</string>
+						<key>Reset</key>
+						<false/>
+						<key>Value</key>
+						<string>0.02</string>
+					</dict>
+					<dict>
+						<key>MacroActionType</key>
+						<string>CopyClipboard</string>
+						<key>TargetNamedClipboardRedundantDisplayName</key>
+						<string>TTS</string>
+						<key>TargetNamedClipboardUID</key>
+						<string>2DF5AA1F-AD0E-4DA7-8440-494C094FE19F</string>
+						<key>TargetUseNamedClipboard</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>ByTyping</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>ProcessingMode</key>
+						<string>TextTokensOnly</string>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+						<key>Text</key>
+						<string>%NamedClipboard%TTS%</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>622935832.01924396</real>
+				<key>ModificationDate</key>
+				<real>622947159.23060596</real>
+				<key>Name</key>
+				<string>TTS Paste</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>MacroPalette</string>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>F3887965-4EE5-4C55-9D3B-5BF402E768AF</string>
+			</dict>
+		</array>
+		<key>ToggleMacroUID</key>
+		<string>5283D143-6FBA-4C0C-ABDD-055886CA14A5</string>
+		<key>UID</key>
+		<string>146A06D1-D191-475F-B5C4-E26490FAE088</string>
+	</dict>
+</array>
+</plist>
