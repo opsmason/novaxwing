@@ -1,0 +1,16 @@
+{
+  "baseURL": "https://novaxwing.com/",
+  "languageCode": "en-us",
+  "title": "NOVA X-Wing",
+  "theme": "mini",
+  "sectionPagesMenu": "main",
+  "languages": {
+    "en": {
+      "params": {
+        "resources": "Resources",
+        "leagues": "Leagues",
+        "news": "News"
+      }
+    }
+  }
+}

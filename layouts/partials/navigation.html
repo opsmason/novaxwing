@@ -1,0 +1,17 @@
+<nav class="navigation">
+	{{ if not .IsHome }}
+		<a href="{{ "/" | relURL }}"> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}{{ i18n "home" }}{{ end }}</a>
+	{{ end }}
+	<a href="{{ "/resources" | relURL }}">{{ with .Site.Params.resources }}{{ . }}{{ else }}{{ i18n "resources" }}{{ end }}</a>
+	<a href="{{ "/leagues" | relURL }}">{{ with .Site.Params.leagues }}{{ . }}{{ else }}{{ i18n "leagues" }}{{ end }}</a>
+	<a href="{{ "/news" | relURL }}">{{ with .Site.Params.news }}{{ . }}{{ else }}{{ i18n "news" }}{{ end }}</a>
+	<a href="{{ "/about" | relURL }}">{{ with .Site.Params.about }}{{ . }}{{ else }}{{ i18n "about" }}{{ end }}</a>
+
+	{{ range $element := .Site.Params.Links }}
+		<a href="{{ $element.path }}">{{ $element.name }}</a>
+	{{ end }}
+
+	{{ if .Site.Params.enableRSS }}
+	  <a class="button" href="{{ .Site.RSSLink }}">{{ with .Site.Params.subscribe }}{{ . }}{{ else }}{{ i18n "subscribe" }}{{ end }}</a>
+	{{ end }}
+</nav>
