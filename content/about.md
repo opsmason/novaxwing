@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-08-20T16:28:49-04:00
-draft: true
+draft: false
 ---
 
 - Built with [Hugo](https://gohugo.io)

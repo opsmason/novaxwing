@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 date: 2023-08-20T16:37:35-04:00
-draft: true
+draft: false
 ---
 
 There are many resources around the Internet for X-Wing. This page is an attempt to catalog them. If you have any recommendations, please e-mail info@novaxwing.com
