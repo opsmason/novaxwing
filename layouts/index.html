@@ -15,8 +15,10 @@
             </div>
           </div>
 
-          {{ if ne .Site.Params.hiddenPostSummaryInHomePage true }}
-              <div class="summary">{{ $summary | plainify | htmlUnescape }}</div>
+          {{ if .Truncated }}
+              <div class="summary">{{ .Summary | plainify | htmlUnescape }}</div>
+          {{ else }}
+              <div class="summary">{{ .Content }}</div>
           {{ end }}
 
         </section>
