@@ -17,6 +17,7 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 ## Podcasts
 - [Gold Squadron](https://www.podomatic.com/podcasts/goldsquadronpodcast)
 - [YAXP](https://podcasters.spotify.com/pod/show/yaxp-pod) (Yet Another X-Wing Podcast)
+- [Tosche Station](https://lixbwu.podbean.com/)
 
 ## Other Tools
 - [Advanced Targeting Computer](http://advancedtargeting.computer)
