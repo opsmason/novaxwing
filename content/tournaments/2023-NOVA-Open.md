@@ -3,7 +3,6 @@ title: "2023 Nova Open"
 date: 2023-08-30T00:00:00-04:00
 draft: false
 summary: It's an index of leagues
-
 ---
 
 - Where: Washington, DC
