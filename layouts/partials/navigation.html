@@ -4,6 +4,7 @@
 	{{ end }}
 	<a href="{{ "/resources" | relURL }}">{{ with .Site.Params.resources }}{{ . }}{{ else }}{{ i18n "resources" }}{{ end }}</a>
 	<a href="{{ "/leagues" | relURL }}">{{ with .Site.Params.leagues }}{{ . }}{{ else }}{{ i18n "leagues" }}{{ end }}</a>
+	<a href="{{ "/tournaments" | relURL }}">{{ with .Site.Params.leagues }}{{ . }}{{ else }}{{ i18n "tournaments" }}{{ end }}</a>
 	<a href="{{ "/news" | relURL }}">{{ with .Site.Params.news }}{{ . }}{{ else }}{{ i18n "news" }}{{ end }}</a>
 	<a href="{{ "/about" | relURL }}">{{ with .Site.Params.about }}{{ . }}{{ else }}{{ i18n "about" }}{{ end }}</a>
 

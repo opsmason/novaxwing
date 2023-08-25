@@ -9,7 +9,8 @@
       "params": {
         "resources": "Resources",
         "leagues": "Leagues",
-        "news": "News"
+        "news": "News",
+        "news": "Tournaments"
       }
     }
   },
