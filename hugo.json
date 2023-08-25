@@ -10,7 +10,7 @@
         "resources": "Resources",
         "leagues": "Leagues",
         "news": "News",
-        "news": "Tournaments"
+        "tournaments": "Tournaments"
       }
     }
   },

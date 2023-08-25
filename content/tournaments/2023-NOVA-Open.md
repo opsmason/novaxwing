@@ -9,5 +9,5 @@ summary: It's an index of leagues
 - When: August 30 - September 3, 2023
 - Links:
   - [NOVA Open](https://www.novaopen.com/)
-  - [Roll Better](https://rollbetter.gg/tournaments/777)
+  - [Roll Better](https://rollbetter.gg/tournaments/776)
   - [Player Docs](https://novapublic.blob.core.windows.net/event-primers/2023/Nova-Open-2023--Star-Wars-X-Wing-Primer.pdf)

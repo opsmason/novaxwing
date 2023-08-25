@@ -1,5 +1,5 @@
 ---
-title: "2023 Nova Open"
+title: "2023 PAX Unplugged"
 date: 2023-12-01T00:00:00-04:00
 draft: false
 summary: It's an index of leagues
