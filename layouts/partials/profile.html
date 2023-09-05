@@ -1,15 +1,15 @@
 <header class="profile">
-    {{ if .Site.Params.avatarLink }}
-        <a href="{{ .Site.Params.avatarLink }}">
-          <img class="avatar" alt="avatar" src="{{ "/images/avatar.png" | relURL }}" />
+    {{ if .Site.BaseURL }}
+        <a href="/">
+          <div class="logo">{{ .Site.Params.LogoText }}</div>
+          <h1>{{ .Site.Title }}</h1>
         </a>
     {{ else }}
-        <img class="avatar" alt="NOVA X-Wing" src="{{ "/images/avatar.png" | relURL }}" />
+      <div class="logo">NXW</div>
     {{ end }}
 
-    <h1>{{ .Site.Title }}</h1>
 
     {{ with .Site.Params.Bio }}
       <h2>{{ . | markdownify }}</h2>
     {{ end }}
-</header>
+  </header>

@@ -1,6 +1,11 @@
 html[theme='dark-mode'] {
   filter: invert(1) hue-rotate(180deg);
 }
+.logo {
+  font: 150px/15.0em Impact;
+  color: #404040;
+  line-height: 1;
+}
 
 body {
   line-height: 1;

@@ -7,15 +7,14 @@
   "languages": {
     "en": {
       "params": {
+        "logoText": "NXW",
+        "copyright": "© Copyright 2023 Mason Turner. No cookies are used on this website.",
         "resources": "Resources",
         "leagues": "Leagues",
         "news": "News",
         "tournaments": "Tournaments"
       }
     }
-  },
-  "params": {
-    "copyright": "© Copyright 2023 Mason Turner. No cookies are used on this website."
   },
   "buildFuture": "true"
 }
