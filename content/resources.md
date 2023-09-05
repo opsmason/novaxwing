@@ -25,6 +25,7 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 - [Advanced Targeting Computer](http://advancedtargeting.computer)
 - [List Fortress](https://listfortress.com)
 - [Star Wars Gaming Squadrons & Events](https://www.google.com/maps/d/u/0/viewer?mid=1cGLTf-UGi8dtWKZP5NUIQ9TjlRRVW6PZ&hl=en) (Google Map)
+- [Infinite Arenas](https://www.infinitearenas.com/): Print custom cards.
 
 ## Tournament Tools
 - [Roll Better](http://rollbetter.gg)
@@ -43,3 +44,8 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 - [Midwest Scrubcast Discord](https://discord.com/channels/660494737861509130/660494739363201036)
 - [TTS X-Wing Discord](https://discord.com/channels/334067081517727746/449291988647280640)
 - [X-Wing TMG Discord](https://discord.com/channels/166213290374987776/166213290374987776)
+
+## Online & Digital Play
+- [X-Wing Unified 2.0 / 2.5](https://steamcommunity.com/sharedfiles/filedetails/?id=2486128992): Table Top Simulator module.
+- [Star Wars: X-Wing Miniatures Game](https://vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) Vassal Module.
+- [Fly Casual](https://github.com/Sandrem/FlyCasual): A fan-made simulator for Windows, Mac, Linux and Android.
