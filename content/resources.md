@@ -18,10 +18,12 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 - [Gold Squadron](https://www.podomatic.com/podcasts/goldsquadronpodcast)
 - [YAXP](https://podcasters.spotify.com/pod/show/yaxp-pod) (Yet Another X-Wing Podcast)
 - [Tosche Station](https://lixbwu.podbean.com/)
+- [Planning Phase Syndicate](https://planningphasesyndicate.podbean.com/)
 
 ## Other Tools
 - [Advanced Targeting Computer](http://advancedtargeting.computer)
 - [List Fortress](https://listfortress.com)
+- [Star Wars Gaming Squadrons & Events)](https://www.google.com/maps/d/u/0/viewer?mid=1cGLTf-UGi8dtWKZP5NUIQ9TjlRRVW6PZ&hl=en) (Google Map)
 
 ## Tournament Tools
 - [Roll Better](http://rollbetter.gg)
@@ -29,6 +31,7 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 
 ## Stores
 - [Huzzah Hobbies](https://huzzahhobbies.com) Ashburn, Virginia. Wednesday's are X-Wing nights.
+- [Games and Stuff](https://gamesandstuff.com/) Glen Burnie, Maryland.
 
 ## Social Media
 - [Huzzah Discord](https://discord.com/channels/651943624098971648/679817695876874283)
