@@ -18,12 +18,13 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 - [Gold Squadron](https://www.podomatic.com/podcasts/goldsquadronpodcast)
 - [YAXP](https://podcasters.spotify.com/pod/show/yaxp-pod) (Yet Another X-Wing Podcast)
 - [Tosche Station](https://lixbwu.podbean.com/)
-- [Planning Phase Syndicate](https://planningphasesyndicate.podbean.com/)
+- [Planning Phase Syndicate](https://planningphasesyndicate.podbean.com)
+- [Bespin Benchwarmers](https://bespinbenchwarmers.podbean.com)
 
 ## Other Tools
 - [Advanced Targeting Computer](http://advancedtargeting.computer)
 - [List Fortress](https://listfortress.com)
-- [Star Wars Gaming Squadrons & Events)](https://www.google.com/maps/d/u/0/viewer?mid=1cGLTf-UGi8dtWKZP5NUIQ9TjlRRVW6PZ&hl=en) (Google Map)
+- [Star Wars Gaming Squadrons & Events](https://www.google.com/maps/d/u/0/viewer?mid=1cGLTf-UGi8dtWKZP5NUIQ9TjlRRVW6PZ&hl=en) (Google Map)
 
 ## Tournament Tools
 - [Roll Better](http://rollbetter.gg)
