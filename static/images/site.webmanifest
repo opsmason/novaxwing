@@ -1,0 +1,19 @@
+{
+    "name": "NXW",
+    "short_name": "NXW",
+    "icons": [
+        {
+            "src": "/images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#404040",
+    "background_color": "#404040",
+    "display": "standalone"
+}
