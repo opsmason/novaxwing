@@ -1,5 +1,5 @@
 ---
-title: "PAX Unplugged Registraion Open"
+title: "PAX Unplugged Registration Open"
 date: 2023-09-05T23:14:00-04:00
 draft: false
 ---
