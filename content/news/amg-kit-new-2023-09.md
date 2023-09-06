@@ -2,9 +2,10 @@
 title: "AMG Championship Clarification"
 date: 2023-09-05T23:14:00-04:00
 draft: false
+summary: Atomic Mass Games has posted clarifications for questions about Store Championships.
 ---
 
-Yesterday, Atomic Mass Games posted clarifications for questions about Store Championships. Of note:
+Atomic Mass Games has posted clarifications for questions about Store Championships. Of note:
 
 - Store Championships require a minimum of 16 players.
 - Stores are to report winners via a Google Form, provided by their Asmodee Sales Rep.
