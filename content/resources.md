@@ -9,6 +9,7 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 ## Official Links
 - [Official X-Wing Documents at Atomic Mass Games](https://www.atomicmassgames.com/xwing-documents)
 - [AMG Star Wars Transmissions](https://www.atomicmassgames.com/star-wars-transmissions)
+- [Rules Forum](https://forums.atomicmassgames.com/forum/43-star-wars-x-wing-rules-questions/)
 
 ## List Builders
 - [YASB 2.5](https://yasb.app/) (Yet Another Squad Builder)
