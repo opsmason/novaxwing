@@ -49,3 +49,7 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 - [X-Wing Unified 2.0 / 2.5](https://steamcommunity.com/sharedfiles/filedetails/?id=2486128992): Table Top Simulator module.
 - [Star Wars: X-Wing Miniatures Game](https://vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) Vassal Module.
 - [Fly Casual](https://github.com/Sandrem/FlyCasual): A fan-made simulator for Windows, Mac, Linux and Android.
+
+## Tokens, Templates & Trays
+- [Highbridge Design](https://www.etsy.com/shop/HighbridgeDesign)
+- [Curled Paw Creatives](https://www.etsy.com/shop/CurledPawCreatives)
