@@ -11,7 +11,9 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 - [X-Wing Documents](https://www.atomicmassgames.com/xwing-documents): Rules, Points, Scenarios and Tournament Regulations (last updated Sept 8, 2023)
 - [X-Wing Transmissions](https://www.atomicmassgames.com/star-wars-transmissions): News
 - [Rules Forum](https://forums.atomicmassgames.com/forum/43-star-wars-x-wing-rules-questions/)
-- [Twitch](https://www.twitch.tv/atomicmassgames)
+- [AMG Twitch](https://www.twitch.tv/atomicmassgames)
+- [AMG Instagram](https://www.instagram.com/atomic_mass_transmissions)
+- [AMG facebook](https://www.facebook.com/AtomicMassGames)
 
 ## List Builders
 - [YASB 2.5](https://yasb.app/) (Yet Another Squad Builder)
