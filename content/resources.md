@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-date: 2023-09-07T09:01:00-04:00
+date: 2023-09-07T10:23:00-04:00
 draft: false
 ---
 
@@ -11,6 +11,7 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 - [X-Wing Documents](https://www.atomicmassgames.com/xwing-documents): Rules, Points, Scenarios and Tournament Regulations (last updated Sept 8, 2023)
 - [X-Wing Transmissions](https://www.atomicmassgames.com/star-wars-transmissions): News
 - [Rules Forum](https://forums.atomicmassgames.com/forum/43-star-wars-x-wing-rules-questions/)
+- [Twitch](https://www.twitch.tv/atomicmassgames)
 
 ## List Builders
 - [YASB 2.5](https://yasb.app/) (Yet Another Squad Builder)
@@ -57,3 +58,6 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 ## Tokens, Templates & Trays
 - [Highbridge Design](https://www.etsy.com/shop/HighbridgeDesign)
 - [Curled Paw Creatives](https://www.etsy.com/shop/CurledPawCreatives)
+
+## Free Downloads
+- [Scoresheet](/downloads/X-Wing-Score-Sheet-2.0.pdf): a printable scoresheet, with a rules quick reference on the back.
