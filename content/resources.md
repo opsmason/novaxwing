@@ -31,6 +31,7 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 - [List Fortress](https://listfortress.com)
 - [Star Wars Gaming Squadrons & Events](https://www.google.com/maps/d/u/0/viewer?mid=1cGLTf-UGi8dtWKZP5NUIQ9TjlRRVW6PZ&hl=en) (Google Map)
 - [Infinite Arenas](https://www.infinitearenas.com/): Print custom cards.
+- [xwing-miniatures-font](https://github.com/geordanr/xwing-miniatures-font)
 
 ## Tournament Tools
 - [Roll Better](http://rollbetter.gg)
