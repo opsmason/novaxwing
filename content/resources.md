@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-date: 2023-09-07T10:23:00-04:00
+date: 2023-09-08T12:02:00-04:00
 draft: false
 ---
 
@@ -27,6 +27,9 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 - [Bespin Benchwarmers](https://bespinbenchwarmers.podbean.com)
 - [Natties](https://podcasters.spotify.com/pod/show/natties)
 - [The Midwest Scrubcast](https://podcasters.spotify.com/pod/show/midwest-scrubcast)
+
+## Blogs and Newsletters
+- [Chris Allen's Substack](https://substack.com/@chrisalleng)
 
 ## Other Tools
 - [Advanced Targeting Computer](http://advancedtargeting.computer)
