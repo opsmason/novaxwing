@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-date: 2023-09-08T12:02:00-04:00
+date: 2023-09-13T09:50:00-04:00
 draft: false
 ---
 
@@ -8,8 +8,9 @@ There are many resources around the Internet for X-Wing. This page is an attempt
 
 ## Official Links at Atomic Mass Games
 - [X-Wing Homepage](https://www.atomicmassgames.com/xwing)
-- [X-Wing Documents](https://www.atomicmassgames.com/xwing-documents): Rules, Points, Scenarios and Tournament Regulations (last updated Sept 8, 2023)
+- [X-Wing Documents](https://www.atomicmassgames.com/xwing-documents): Rules, Points, Scenarios and Tournament Regulations (last updated Sept. 12, 2023)
 - [X-Wing Transmissions](https://www.atomicmassgames.com/star-wars-transmissions): News
+- [AMG Official Discord]([Discord server](https://discord.gg/atomicmassgamesofficial))
 - [Rules Forum](https://forums.atomicmassgames.com/forum/43-star-wars-x-wing-rules-questions/)
 - [AMG Twitch](https://www.twitch.tv/atomicmassgames)
 - [AMG Instagram](https://www.instagram.com/atomic_mass_transmissions)

@@ -16,7 +16,7 @@
           </div>
 
           {{ if .Truncated }}
-              <div class="summary">{{ .Summary | plainify | htmlUnescape }}</div>
+              <div class="summary">{{ .Summary | plainify | htmlUnescape }} <a href='{{ .RelPermalink }}'>… Read More</a></div> 
           {{ else }}
               <div class="summary">{{ .Content }}</div>
           {{ end }}
